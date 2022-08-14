@@ -12,7 +12,7 @@ chmod +x memoryDump.sh
 ./memoryDump.sh
 
 chmod +x volSetup.sh
-./colSetup.sh
+./volSetup.sh
 
 chmod +x linuxProfile.sh
 ./linuxProfile
