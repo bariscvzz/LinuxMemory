@@ -3,19 +3,21 @@
 
 Using
 --------------
-# sudo bash
 
-# chmod +x CleanUpdate.sh
-# ./CleanUpdate
+sudo bash
 
-# chmod +x memoryDump.sh
+chmod +x CleanUpdate.sh
 
-# ./memoryDump.sh
+./CleanUpdate
 
-# chmod +x volSetup.sh
+chmod +x memoryDump.sh
 
-# ./volSetup.sh
+./memoryDump.sh
 
-# chmod +x linuxProfile.sh
+chmod +x volSetup.sh
 
-# ./linuxProfile.sh
+./volSetup.sh
+
+chmod +x linuxProfile.sh
+
+./linuxProfile.sh
