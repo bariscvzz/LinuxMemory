@@ -8,6 +8,8 @@ sudo bash
 
 chmod +x *
 
+---------------
+
 ./CleanUpdate
 
 --------------
