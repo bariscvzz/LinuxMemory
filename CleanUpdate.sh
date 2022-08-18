@@ -1,4 +1,5 @@
 #!/bin/bash
+#Update and clean repos
 echo "Please wait...Update"
 sudo apt-get update -y
 echo "Please wait...Upgrade"
