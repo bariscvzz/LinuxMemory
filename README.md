@@ -4,6 +4,7 @@
 Using
 --------------
 cd LinuxMemory
+
 sudo bash
 
 chmod +x *
